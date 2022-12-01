@@ -10,6 +10,9 @@ npm i sass sass-loader@10.1.1 @nuxtjs/style-resources
 # 安装postcss8依赖
 npm i -D @nuxt/postcss8
 
+# 安装qs依赖 (for axios)
+npm install --save qs
+
 # 安装i18n依赖 (Optional)
 echo "*** 是否需要安装i18n？(y/n) ***"
 read i18n
